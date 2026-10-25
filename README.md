@@ -56,8 +56,8 @@ To run the app locally:
 bash
 نسخ
 تحرير
-git clone https://github.com/AdhamKanatri/ohod-reward-app.git
-cd ohod-reward
+git clone https://github.com/AdhamKanatri/reward-app.git
+cd reward-app
 flutter pub get
 flutter run
 Make sure to set up Firebase for your project. You’ll need google-services.json (Android) or GoogleService-Info.plist (iOS).
