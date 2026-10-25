@@ -1,4 +1,4 @@
-🎁 Ohod Reward
+🎁 Reward App
 A Flutter-based mobile application designed to manage and redeem user reward points. The app provides a seamless user experience with Firebase Authentication for secure login and various features for users to interact with their rewards, view invoices, provide feedback, and more.
 
 ✨ Features
